@@ -1,5 +1,5 @@
 # Update all mentions of this name in vercel-packages when changing.
-name: build-and-deploy
+name: salahhazaa
 
 on:
   push:
